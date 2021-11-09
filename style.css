@@ -1,0 +1,234 @@
+
+
+body{
+    -webkit-text-size-adjust: 100%;
+    background-color:#fff;
+    margin:0;
+    padding:0;
+    font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    font-weight: 400;
+  }
+
+a {
+    color: #222;
+    text-decoration: none;
+}
+
+img {
+    border: 0;
+    vertical-align: middle;
+}
+
+header{
+    display:flex;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    max-width: 100%;
+    margin: 0 36px 0 36px;
+    padding: 20px;
+  }
+ 
+.potepan-camp-logo{
+    width: auto;
+    height: 20px;
+}
+
+
+ul{
+    font-weight: bold;
+    font-size: 11px;
+    white-space: nowrap;
+    list-style: none;
+    display: flex;
+    color:black;
+    float:right;
+  }
+  
+li{
+    margin-left: 40px;
+  }
+  
+.content1{
+    display: block;
+    color:black;
+    font-size:5px;
+  }
+  
+  
+.title{
+      position:relative;
+      color: #333333;
+      font-family: 'Lato', sans-serif;
+      font-size: 38px;
+      font-weight: 700;
+      line-height: 54px;
+      margin-top:10px;
+      margin-bottom: 5%;
+      float:left;
+      margin-left:50px;
+      text-align: center;
+  }
+    
+.first-counseling{
+    color: #fff;
+    background-color: #f79314;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 30px;
+    text-align: center;
+    align-items: center;
+    padding: 0px 20px;
+    font-size: 12px;
+    font-weight: bold;
+    white-space: nowrap;
+    height: 40px;
+    width: 100%; 
+  }
+  
+.for-backgrouond-picture{
+    position: absolute;
+    background-image:url("https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+.push-buttons{
+    display:flex;
+    float:left;
+    margin-top:150px;
+    margin-left:50px;
+    width:70%;
+  }
+  
+.counseling{
+      color:#fff;
+      background-color:#f79314;
+      justify-content: center;
+      display: flex; 
+     flex-direction: column;
+      border-radius: 30px;
+      text-decoration: none;
+      text-align: center;
+      align-items: center;
+      width: 40%;
+      height: 60px;
+      font-size: 20px;
+      padding:3px;
+  }
+  
+  
+.document-download-button{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      color:black;
+      background-color:white;
+      border: 0.5px solid;
+      margin-left: 5%;
+      border-color:silver;
+      border-radius: 30px;
+      text-decoration: none;
+      text-align: center;
+      align-items: center;
+      width: 25%;
+      height: 60px;
+      font-size: 20px;
+      padding:3px;
+  }
+  
+  
+.archievement{
+    position:relative;
+    top: 140px;
+    right: 500px;
+    margin-bottom:5%;
+  }
+  
+.attention-script{
+    position: relative;
+    top:200px;
+    right: 70%;
+    margin-top:10%;
+    color:silver;
+    font-size:10px;
+    white-space: nowrap;
+  }
+  
+.background-color-orange{
+    position:relative;
+    top:230px;
+    color:white;
+    background-color:#f79314;
+  }
+
+.contents-tidy{
+    align-items: center;
+    max-width: 1140px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    justify-content: space-between;
+  }
+
+.discription{
+    font-weight: 700;
+    color: white;
+    margin-left:50px;
+    text-align:left;
+    padding:0px;
+    overflow-wrap: break-word;
+    width:53%;
+  }
+
+
+h1{
+    font-size: 50px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;  
+  }
+
+.discription h1>span{
+    font-size: 40px;
+    letter-spacing: 1px;
+}
+
+
+.orange-button{
+    color: #f79314;
+    background-color: #fff;
+    position:relative;
+    top: -100px;
+    margin-left: 70%;
+    justify-content: center;
+    border-radius: 30px;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    width: 20%;
+    height: 60px;
+    font-size: 20px;
+  }
+
+.lastcontent{
+    color: #f79314;
+    letter-spacing: 3px;
+    white-space: nowrap;
+ }
+
+.content2{
+    display:block;
+    justify-content:center;
+    color:#f79314;
+    font-size: 12px;
+  }
+
+
+
+
+
+
+
+  
